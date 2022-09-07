@@ -18,12 +18,11 @@ Hệ thống xây dựng có 3 tác nhân: quản trị, khách hàng có tài k
 Đề tài tập trung giải quyết vấn đề quan trọng nhất là giúp khách hàng đặt mua sản phẩm theo sở thích một cách dễ dàng và nhanh chóng nhất.
 
 **3. Nền tảng kỹ thuật**
--	Công cụ phân tích và thiết kế hệ thống: draw.io
--	Sử dụng server: Apache Tomcat 8
--	Xây dựng ứng dụng web theo mô hình MVC
--	Ngôn ngữ lập trình: Java, HTML, CSS
--	Công cụ lập trình: Eclipse, SQL server 2014
--	
+-	**Công cụ phân tích và thiết kế hệ thống:** draw.io
+-	**Sử dụng server:** Apache Tomcat 8
+-	**Xây dựng ứng dụng web theo mô hình MVC**
+-	**Ngôn ngữ lập trình:** Java, HTML, CSS
+-	**Công cụ lập trình:** Eclipse, SQL server 2014
 **4. Ý nghĩa lý luận và ý nghĩa thực tiễn của đề tài**
 Giúp cho chủ cửa hàng có thể giới thiệu và bán sản phẩm của mình tới người tiêu dùng một cách nhanh nhất thông qua trang web kinh doanh trang sức. Qua đó, người dùng có thể tiếp cận, mua và nhận hàng một cách nhanh chóng mà không phải mất nhiều thời gian
 
